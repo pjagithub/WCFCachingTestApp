@@ -1,0 +1,11 @@
+﻿<xapCache source="C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\SilverlightTestApp\Bin\Debug\SilverlightTestApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="6/8/2011 2:46:41 PM">
+  <file source="C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\SilverlightTestApp\obj\Debug\SilverlightTestApp.dll" archivePath="SilverlightTestApp.dll" lastWriteTime="5/31/2011 11:16:03 AM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Xml.Linq.dll" archivePath="System.Xml.Linq.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Xml.Serialization.dll" archivePath="System.Xml.Serialization.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\SilverlightTestApp\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="5/26/2011 10:10:01 AM" />
+  <file source="C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\SilverlightTestApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/8/2011 2:46:41 PM" />
+</xapCache>
