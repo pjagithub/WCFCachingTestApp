@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[WebTestApp.csproj]
+SCC_Aux_Path = "\\LVSRVVSSP01\vss"
+SCC_Project_Name = "$/Applications/Test/WcfCachingTestApp/WebTestApp", ATPAAAAA

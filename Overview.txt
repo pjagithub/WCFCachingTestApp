@@ -1,0 +1,6 @@
+- Example of a WCF call accessing a database with a stored proc, and using an ObjectCache to cache the results. 
+The WCF endpoints return ASP.NET DataSet types.
+
+- ObjectCache implemented
+- Two clients (web form and silverlight) show how to consume the service, with the silverlight client showing how
+to deserialize the result which is returned as an ArrayOfXElement type.

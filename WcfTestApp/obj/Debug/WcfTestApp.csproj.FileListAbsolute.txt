@@ -1,0 +1,10 @@
+c:\users\pattridge\documents\visual studio 2010\Projects\WcfTestApp\WcfTestApp\bin\WcfTestApp.dll
+c:\users\pattridge\documents\visual studio 2010\Projects\WcfTestApp\WcfTestApp\bin\WcfTestApp.pdb
+c:\users\pattridge\documents\visual studio 2010\Projects\WcfTestApp\WcfTestApp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pattridge\documents\visual studio 2010\Projects\WcfTestApp\WcfTestApp\obj\Debug\WcfTestApp.dll
+c:\users\pattridge\documents\visual studio 2010\Projects\WcfTestApp\WcfTestApp\obj\Debug\WcfTestApp.pdb
+C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\WcfTestApp\bin\WcfTestApp.dll
+C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\WcfTestApp\bin\WcfTestApp.pdb
+C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\WcfTestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\WcfTestApp\obj\Debug\WcfTestApp.dll
+C:\Users\pattridge\Documents\Visual Studio 2010\Projects\WcfCachingTestApp\WcfTestApp\obj\Debug\WcfTestApp.pdb

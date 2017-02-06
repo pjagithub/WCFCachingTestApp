@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfTestApp", "WcfTestApp\WcfTestApp.csproj", "{FA8A22C1-EDD7-434C-86DB-D2E0730FA559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTestApp", "WebTestApp\WebTestApp.csproj", "{F086F833-6E74-4D62-B31B-AB06A74307E4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FA8A22C1-EDD7-434C-86DB-D2E0730FA559} = {FA8A22C1-EDD7-434C-86DB-D2E0730FA559}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightTestApp", "SilverlightTestApp\SilverlightTestApp.csproj", "{BF559341-9F25-45CA-BF00-8664B9AC8EC0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FA8A22C1-EDD7-434C-86DB-D2E0730FA559} = {FA8A22C1-EDD7-434C-86DB-D2E0730FA559}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SilverlightTestApp\\SilverlightTestApp.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = SilverlightTestApp\\
+		SccProjectUniqueName2 = WcfTestApp\\WcfTestApp.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = WcfTestApp\\
+		SccProjectUniqueName3 = WebTestApp\\WebTestApp.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = WebTestApp\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8A22C1-EDD7-434C-86DB-D2E0730FA559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8A22C1-EDD7-434C-86DB-D2E0730FA559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8A22C1-EDD7-434C-86DB-D2E0730FA559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8A22C1-EDD7-434C-86DB-D2E0730FA559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F086F833-6E74-4D62-B31B-AB06A74307E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F086F833-6E74-4D62-B31B-AB06A74307E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F086F833-6E74-4D62-B31B-AB06A74307E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F086F833-6E74-4D62-B31B-AB06A74307E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF559341-9F25-45CA-BF00-8664B9AC8EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF559341-9F25-45CA-BF00-8664B9AC8EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF559341-9F25-45CA-BF00-8664B9AC8EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF559341-9F25-45CA-BF00-8664B9AC8EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
